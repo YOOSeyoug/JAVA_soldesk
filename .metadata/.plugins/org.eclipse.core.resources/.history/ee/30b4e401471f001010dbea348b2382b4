@@ -1,0 +1,15 @@
+package chapter08;
+
+public class CalPlus extends Example{
+	
+	public CalPlus(int getResult) {
+		this.getResult=getResult;
+	}
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,13 @@
+package chapter05;
+
+public class Example04 {
+
+	public static void main(String[] args) {
+		
+		Example04 calculator = {5, 10, 15, 20, 25};
+		dougle average - calculator.calculateAverage(numbers;)
+		System.out.println("배열의 평균: "+average);
+
+	}
+
+}

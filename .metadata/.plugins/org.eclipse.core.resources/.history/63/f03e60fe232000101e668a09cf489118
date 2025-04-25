@@ -1,0 +1,18 @@
+package Test02_Java2.ApplianceClass02;
+
+public class Washer extends Appliance {
+
+	public Washer() {
+		this.name = "¼¼Å¹±â";
+	}
+	
+	@Override
+	public void operate() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+	
+
+}

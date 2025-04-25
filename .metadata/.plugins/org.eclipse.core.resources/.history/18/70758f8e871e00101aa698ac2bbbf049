@@ -1,0 +1,17 @@
+package New_Test.Machine;
+
+public class Drink {
+	
+	public String drink;
+	int money;
+	
+	public Drink() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	private void buyDrink(String drink,int money) {
+		this.drink=drink;
+		this.money=money;
+	}
+
+}

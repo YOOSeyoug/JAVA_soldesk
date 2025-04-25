@@ -1,0 +1,39 @@
+package chapter06;
+
+import java.util.Calendar;
+
+public class EnumWeekMain_11 {
+
+	public static void main(String[] args) {
+		
+		Week today=null;
+		Calendar cal=Calendar.getInstance(); //한국기준 현재의 요일
+		int week = cal.get(Calendar.DAY_OF_WEEK);
+		
+		switch (week) {
+		case 1:{
+			today=Week.SUNDAY;	
+		}
+		case 2:{
+			today=Week.MONDAY;	
+		}
+		case 3:{
+			today=Week.THURSDAY;
+		}
+		case 4:{
+			today=Week.WEDNESDAY;
+		}
+		case 5:{
+			today=Week.TUESDAY;
+		}
+		case 6:{
+			today=Week.FRIDAY;	
+		}
+		case 7:{
+			today=Week.SATURDAY;	
+		}
+		
+
+	
+
+}

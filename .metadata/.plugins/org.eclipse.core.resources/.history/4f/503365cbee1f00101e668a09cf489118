@@ -1,0 +1,7 @@
+package chapter10.Interface;
+
+public class InterTest01 {
+	//public static 생략되어있음
+	final int A = 100;
+
+}

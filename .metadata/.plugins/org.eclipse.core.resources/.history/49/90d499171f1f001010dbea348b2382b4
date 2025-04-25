@@ -1,0 +1,12 @@
+package chapter08;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+		
+		Student std = new Student("À¯¼¼¿µ", "1111", 1010);
+		System.out.println(std.name, std.ssn, std.studentNo);
+
+	}
+
+}

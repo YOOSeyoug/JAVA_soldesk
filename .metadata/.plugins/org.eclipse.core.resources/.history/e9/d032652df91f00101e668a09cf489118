@@ -1,0 +1,15 @@
+package Test02_Java2.GameClass;
+
+public class GameMain {
+
+	public static void main(String[] args) {
+		
+		System.out.println("게임을 시작합니다.");
+		GameCharacter tracer = new Tracer();
+		trac
+			
+		
+		
+	}
+
+}

@@ -1,0 +1,20 @@
+package chapter08;
+
+public class ApplianceMain {
+
+	public static void main(String[] args) {
+		
+		Washer on = new Washer("세탁기");
+		TV off = new TV("TV");
+		
+		on.turnOn();
+		off.turnOff();
+		
+		Appliance app = new Appliance("전자레인지");
+		app.turnOn();
+		app.turnOff();
+		
+
+	}
+
+}

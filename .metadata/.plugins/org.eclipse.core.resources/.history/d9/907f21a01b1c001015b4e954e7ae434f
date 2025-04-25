@@ -1,0 +1,13 @@
+package chapter06;
+
+public class TeamMember {
+	
+	//필드=멤버변수
+	public String teamName; //팀명
+	public String mName; //팀장
+	public String mPhone; //팀장 전화번호
+	public String sName; //부팀장
+	public String name; //팀원명
+	public String gender; //팀원 성별
+
+}

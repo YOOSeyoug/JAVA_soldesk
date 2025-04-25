@@ -1,0 +1,11 @@
+package New_Test.Machine;
+
+public class VendingMachine {
+	
+	int totalMoney;
+	
+	Drink sellDrink = new Drink();
+
+	
+
+}

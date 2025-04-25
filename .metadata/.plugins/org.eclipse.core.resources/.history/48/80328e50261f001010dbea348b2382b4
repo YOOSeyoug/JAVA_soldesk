@@ -1,0 +1,18 @@
+package chapter08;
+
+public class ApplianceMain {
+
+	public static void main(String[] args) {
+		
+		Appliance a1 = new Washer("LG");
+		
+		a1.turnOn();
+		
+		Appliance a2 = new TV("»ï¼º");
+		
+		a2.turnOff();
+		
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package New_Test.Machine;
+
+public class User {
+	
+	//멤버변수
+	public String name;
+	public int price;
+	
+	public User() {
+	}
+	
+	public void User(Drink drink, VendingMachine machine) {
+		
+	}
+
+}

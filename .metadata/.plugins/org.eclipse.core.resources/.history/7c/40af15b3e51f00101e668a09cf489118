@@ -1,0 +1,6 @@
+package Test02_Java2.GameClass;
+
+public class Tracer extends GameCharacter {
+	
+	
+}

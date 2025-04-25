@@ -1,0 +1,10 @@
+package Test02_Java2.BookStore;
+
+public class User {
+	
+	String User;
+	int point=0;
+	
+	public 
+
+}

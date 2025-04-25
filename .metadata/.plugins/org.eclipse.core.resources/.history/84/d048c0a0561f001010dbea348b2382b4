@@ -1,0 +1,16 @@
+package Test02_Java2.ApplianceClass;
+
+public class Washer extends Appliance {
+	
+	public Washer() {
+		this.name="¼¼Å¹±â";
+	}
+
+	@Override
+	public void operate() {
+		
+	}
+	
+	
+
+}

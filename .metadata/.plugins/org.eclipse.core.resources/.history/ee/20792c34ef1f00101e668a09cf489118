@@ -1,0 +1,9 @@
+package chapter10.Interface;
+
+public class InterTest02 {
+	
+	public int getA() {
+		return A;
+	}
+
+}

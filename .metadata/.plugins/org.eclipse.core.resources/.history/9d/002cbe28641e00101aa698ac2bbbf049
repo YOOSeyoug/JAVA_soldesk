@@ -1,0 +1,15 @@
+package chapter06;
+
+public class Example_person_Main {
+
+	public static void main(String[] args) {
+		
+		Example_person inbody = new Example_person();
+		
+		inbody.name = "홍길동";
+		inbody.height = 180;
+		inbody.weight = 80;
+
+	}
+
+}

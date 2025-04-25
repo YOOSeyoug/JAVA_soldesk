@@ -1,0 +1,18 @@
+package chapter06;
+
+import java.util.Scanner;
+
+public class TakeTrans {
+
+	public static void main(String[] args) {
+		
+		//학생 2명 생성
+		
+		StdInfo studentJames=new StdInfo("James", 20000);
+		StdInfo studentTom=new StdInfo("Tom", 23000);
+		
+
+
+	}
+
+}

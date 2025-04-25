@@ -1,0 +1,17 @@
+package chapter12.wrapper;
+
+public class IntegerMain_01 {
+
+	public static void main(String[] args) {
+
+		//Integer: 참조형 | int: 기본형(함수 없이 정수로 사용)
+		Integer i = new Integer(100); //int i=100;
+		//Integer 안의 메서드를 사용해야 하거나, 전화번호 등이 String으로 들어왔을 때 Integer사용
+		
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package Test02_Java2.ApplianceClass02;
+
+public class ApplianceMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

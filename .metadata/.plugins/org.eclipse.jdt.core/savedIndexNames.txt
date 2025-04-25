@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\soldesk_gabia\JDK_14\.metadata\.plugins\org.eclipse.jdt.core
+2711485036.index
+1865797976.index
+3398855474.index
+3419621543.index

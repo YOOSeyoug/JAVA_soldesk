@@ -1,0 +1,14 @@
+package chapter10.MultiInterface;
+
+public interface Inter_Menul {
+
+	abstract String jajang();
+	
+	String jjambbong();
+	
+	default void show() {
+		System.out.println("¸ÀÁý~~~");
+	}
+	
+	
+}

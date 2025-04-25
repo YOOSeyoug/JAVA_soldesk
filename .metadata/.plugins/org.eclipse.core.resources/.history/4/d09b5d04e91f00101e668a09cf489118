@@ -1,0 +1,7 @@
+package chapter10.Interface;
+
+public class CompleteCalc1 implements Calc {
+	
+	
+
+}

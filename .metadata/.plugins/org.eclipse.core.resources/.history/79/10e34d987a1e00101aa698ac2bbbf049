@@ -1,0 +1,23 @@
+package chapter07;
+
+import java.util.Scanner;
+
+import javax.swing.JOptionPane;
+
+public class StudentMain {
+
+	public static void main(String[] args) {
+		
+		//studentLee에 이수정으로 설정 후 serialNum과 StudentName 출력
+		
+		Student_03 studentLee = new Student_03();
+		studentLee.setStudentName("이수정");
+		System.out.println(studentLee.);
+		
+		studentLee.StudentName = JOptionPane.showInputDialog("이름을 입력하세요.");
+		System.out.println(studentLee.StudentName+"님의 학번은 "+studentLee.serialNum+"입니다.");
+		
+
+	}
+
+}

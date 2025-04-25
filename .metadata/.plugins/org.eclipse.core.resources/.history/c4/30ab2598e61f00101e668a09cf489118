@@ -1,0 +1,7 @@
+package Test02_Java2.GameClass;
+
+public class Lucio extends GameCharacter {
+	
+	
+
+}

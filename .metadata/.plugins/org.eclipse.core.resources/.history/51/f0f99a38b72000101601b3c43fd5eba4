@@ -1,0 +1,30 @@
+package chapter11;
+
+import java.util.Scanner;
+
+public class EnumMain_08 {
+
+	public enum Item{ //final
+		start, Pause, Exit
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		Scanner scan = new Scanner(System.in);
+		
+		while(true) {
+			System.out.print("숫자를 입력하세요[0:게임시작, 1:일시정지, 2:게임종료] :  ");
+			
+			int n = scan.nextInt();
+			
+			Item start = Item.start; //변수방 이름 start, 여기에 0을 정의
+			Item pause = Item.Pause;
+			Item exit = Item.Exit;
+			
+		}//while
+		
+
+	}//main
+
+}//class

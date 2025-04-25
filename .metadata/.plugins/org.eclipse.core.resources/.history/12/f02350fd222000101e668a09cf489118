@@ -1,0 +1,22 @@
+package Test02_Java2.InterfaceClass;
+
+public class InterfaceMain {
+
+	public static void main(String[] args) {
+		
+		D dClass = new D();
+		
+		A a = new D();
+		
+		B b = new D();
+		
+		C c = new D();
+		
+		D d = new D();
+		
+		C iClass = dClass;
+		
+		
+	}
+
+}

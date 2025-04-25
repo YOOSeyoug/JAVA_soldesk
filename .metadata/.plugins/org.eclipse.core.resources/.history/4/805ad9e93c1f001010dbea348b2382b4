@@ -1,0 +1,14 @@
+package chapter08;
+
+public class Manager extends Employee{
+	
+	
+	String department;
+	
+	//»ı¼ºÀÚ
+	
+	//work
+	
+	
+
+}

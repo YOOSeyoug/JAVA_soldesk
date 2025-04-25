@@ -1,0 +1,25 @@
+package chapter11;
+
+class Out{
+	
+	//멤버변수
+	static int a=1;
+	
+	//생성자
+	
+	//메서드
+	
+	
+	
+}//out class
+
+public class NonStatic_01 {
+	
+	public static void main(String[] args) {
+		
+		//#1 Out class 객체
+		Out obj1 = new Out();
+		
+	}
+
+}
