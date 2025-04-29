@@ -1,0 +1,16 @@
+package chapter15.hashmap;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class HashMapMain_01 {
+
+	public static void main(String[] args) {
+		
+		Map<String, Integer> map = new HashMap<String, Integer>();
+		
+		map.put("±è¿ìÁø", 85);
+
+	}
+
+}

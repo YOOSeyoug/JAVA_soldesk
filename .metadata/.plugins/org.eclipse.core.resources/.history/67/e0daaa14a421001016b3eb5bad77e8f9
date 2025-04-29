@@ -1,0 +1,11 @@
+package chapter13;
+
+public class GeneralNoGenericMain {
+
+	public static void main(String[] args) {
+		// general
+		
+		
+	}
+
+}

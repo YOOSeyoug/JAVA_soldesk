@@ -1,0 +1,12 @@
+package chapter14.hashset;
+
+import java.util.Set;
+
+public class SolDeskMemberManager {
+	
+	//HashSet 공가을 이용해서 멤버정보를 관리
+	private Set<SolDeskMember> member;
+	
+	
+
+}

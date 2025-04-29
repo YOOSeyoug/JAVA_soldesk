@@ -1,0 +1,18 @@
+package chapter14.hashset;
+
+import java.util.HashSet;
+
+public class LottohashMain_01 {
+
+	public static void main(String[] args) {
+		
+		HashSet<Integer> lotto = new HashSet<Integer>();
+		
+		while(true) {
+			
+		}
+		
+
+	}
+
+}

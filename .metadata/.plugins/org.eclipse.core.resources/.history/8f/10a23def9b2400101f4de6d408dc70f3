@@ -1,0 +1,14 @@
+package chapter14.stack;
+
+public class CoinMain_01 {
+
+	public static void main(String[] args) {
+		
+		Coin coinBox = new Coin(10);
+		
+		coinBox.setValue(50);
+		System.out.println(coinBox.getValue());
+
+	}
+
+}

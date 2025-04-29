@@ -1,0 +1,19 @@
+package chapter14;
+
+import java.util.ArrayList;
+
+public class UserInfoMain_05 {
+
+	public static void main(String[] args) {
+		
+		//UserInfoÅ¸ÀÔÀÇ ArrayList -> arr
+		ArrayList<UserInfo> arr = new ArrayList<UserInfo>();
+		
+		
+		
+		
+		
+
+	}
+
+}

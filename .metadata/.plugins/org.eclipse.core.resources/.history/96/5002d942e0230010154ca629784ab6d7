@@ -1,0 +1,15 @@
+package Test02_Java2.chapter14;
+
+public class PersonInfo {
+	
+	public void personInfo() {
+		
+		int menu;
+		Person per;
+		
+		
+		
+		
+	}//method
+
+}//class

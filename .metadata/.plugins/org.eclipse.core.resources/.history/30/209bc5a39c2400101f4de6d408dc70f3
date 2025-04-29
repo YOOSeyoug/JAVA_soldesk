@@ -1,0 +1,17 @@
+package chapter14.stack;
+
+import java.util.Stack;
+
+public class CoinMain_01 {
+
+	public static void main(String[] args) {
+		
+		Stack<Coin> coinBox = new Stack<Coin>();
+		
+		coinBox.push(new Coin());
+		
+		
+
+	}
+
+}

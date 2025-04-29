@@ -1,0 +1,14 @@
+package chapter14.vector;
+
+import java.util.Vector;
+
+public class VectorCapacity_01 {
+
+	public static void main(String[] args) {
+		
+		//Vector 생성(기본용량 10)
+		Vector<String> vector = new Vector<String>();
+
+	}
+
+}

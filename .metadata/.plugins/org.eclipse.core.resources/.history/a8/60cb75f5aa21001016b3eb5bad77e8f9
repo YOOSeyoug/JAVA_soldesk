@@ -1,0 +1,26 @@
+package chapter13;
+
+public class GenericContainerMain {
+
+	public static void main(String[] args) {
+		//문자열 아이템을 저장하는 객체
+		GenericContainer<String> stringContainer = new GenericContainer<String>(5);
+		
+		stringContainer.addItem("Apple");
+		stringContainer.addItem("Banana");
+		stringContainer.addItem("Cherry");
+		stringContainer.printItems();
+		
+		GenericContainer<Integer> integerContainer = new GenericContainer<Integer>(4);
+		integerContainer.addItem(5);
+		integerContainer.addItem(3);
+		integerContainer.addItem(1);
+		integerContainer.addItem(9);
+		integerContainer.printItems();
+		
+		
+		
+
+	}
+
+}

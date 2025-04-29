@@ -1,0 +1,21 @@
+package Test02_Java2.chapter14;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Scanner;
+
+public class PersonInfo {
+	
+	Person p;
+	int menu;
+	
+	ArrayList<Person> persons = new ArrayList<Person>();
+	
+	while(true) {
+		System.out.println("(1)회원가입, (2)정보삭제, (3)정보검색, (4)종료");
+		
+	}
+	
+	
+
+}//class

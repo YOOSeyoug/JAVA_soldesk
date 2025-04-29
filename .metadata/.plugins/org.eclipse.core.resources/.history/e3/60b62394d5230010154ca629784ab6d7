@@ -1,0 +1,19 @@
+package chapter14;
+
+import java.util.ArrayList;
+
+public class PersonManager {
+
+	public void personMgr() {
+		
+		int select;
+		Person p;
+		
+		ArrayList<Person> person = new ArrayList<Person>();
+		
+	}//¸Þ¼­µå
+	
+	
+	
+	
+}//class
