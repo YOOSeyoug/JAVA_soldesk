@@ -1,9 +1,0 @@
-package Test02_Java2.InterfaceClass;
-
-public class D implements C {
-
-	void d();
-	
-	
-
-}

@@ -14,7 +14,7 @@ public class EmployeeMain_04 {
 		employees.add(new Employee("Bob", 25));
 		employees.add(new Employee("Alice", 30));
 		
-		Collections.sort(employees, new NameComparator());
+		//Collections.sort(employees, new NameComparator());
 		
 		System.out.println("이름을 기준으로 오름차순 정렬");
 		for(Employee employee : employees) {

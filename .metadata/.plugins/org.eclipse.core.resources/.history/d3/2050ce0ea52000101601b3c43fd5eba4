@@ -1,9 +1,0 @@
-package chapter11;
-
-class Out{
-	
-}//out class
-
-public class NonStatic_01 {
-
-}
